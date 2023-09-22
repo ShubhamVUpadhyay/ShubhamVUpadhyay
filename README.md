@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Upadhyay</h1>
 <h3 align="center">A passionate Python web developer from India</h3>
 
-# 💫 About Me:
+
 <br>🌱 I’m currently learning  React,Node,Express and Databases<br><br>💬 Ask me about  Python,Django,HTML,CSS,Bootsrap,Javascript,mySQL<br><br>📫 How to reach me shubhamvupadhyay@gmail.com
 
 
